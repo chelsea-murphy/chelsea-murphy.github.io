@@ -1,0 +1,16 @@
+    /* styles.css */
+    #container {
+        background-color: #fb83ad;
+        padding: 20px;
+        min-height: 500px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .box {
+        background-color: #d2e177;
+        margin: 20px;
+        padding: 20px;
+    }
