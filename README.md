@@ -1,7 +1,7 @@
 # Chelsea Murphy - Portfolio Task
 
 ​
-[My portfolio site](https://github.com/chelsea-murphy/chelsea-murphy.github.io)
+[My portfolio site] (https://chelsea-murphy.github.io)
 ​
 
 ## Project Requirements
