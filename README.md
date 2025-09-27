@@ -1,7 +1,7 @@
 # Chelsea Murphy - Portfolio Task
 
 ​
-[My portfolio site](link_to_your_site)
+[My portfolio site](https://github.com/chelsea-murphy/chelsea-murphy.github.io)
 ​
 
 ## Project Requirements
@@ -12,9 +12,9 @@ Add a short paragraph describing the features below. What aesthetic and technica
 
 - [x] At least one profile picture
 - [ ] Biography (at least 100 words)
-- [ ] Functional Contact Form
+- [ ] Contact Form
 - [x] "Projects" section
-- [ ] Links to external sites, e.g. GitHub and LinkedIn.
+- [x] Links to external sites, e.g. GitHub and LinkedIn.
       ​
 
 ### Technical
