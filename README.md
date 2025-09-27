@@ -10,10 +10,10 @@
 
 Add a short paragraph describing the features below. What aesthetic and technical choices did you make?
 
-- [ ] At least one profile picture
+- [x] At least one profile picture
 - [ ] Biography (at least 100 words)
 - [ ] Functional Contact Form
-- [ ] "Projects" section
+- [x] "Projects" section
 - [ ] Links to external sites, e.g. GitHub and LinkedIn.
       ​
 
@@ -43,6 +43,15 @@ Add a short paragraph describing the features below, if you included any.
 > - The different features of your site, e.g. if you have hover states, take a screenshot that shows that.
 >
 > You can do this by saving the images in a folder in your repo, and including them in your readme document with the following Markdown code:
+
+#Screenshots
+
+Responsiveness Examples
+
+Desktop Example (but update)
+![Desktop Screenshot](./img/c-murphy.jpeg)
+
+Tablet
 
 #### image_title_goes_here
 
