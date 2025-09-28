@@ -48,10 +48,13 @@ Add a short paragraph describing the features below, if you included any.
 
 Responsiveness Examples
 
-Desktop Example (but update)
-![Desktop Screenshot](./img/c-murphy.jpeg)
+Desktop Examples
+![Desktop Screenshot](/img/Desktop1%20Homepage.png)
+![Desktop Screenshot](/img/Desktop2Homepage.png)
+![Desktop Screenshot](/img/Desktop2-Project-Page.png)
 
 Tablet
+![Tablet Screenshot](/img/Desktop1%20Homepage.png)
 
 #### image_title_goes_here
 
