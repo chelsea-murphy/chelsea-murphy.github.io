@@ -13,13 +13,13 @@
 
  /* CSS Reset */
 
- html {
-     box-sizing: border-box;
-     font-size: 18px;
-     font-family: "Manrope", sans-serif;
-     color: var(--black);
-     scroll-behavior: smooth;
- }
+html {
+    box-sizing: border-box;
+    font-size: 18px;
+    font-family: "Manrope", sans-serif;
+    color: var(--black);
+    scroll-behavior: smooth;
+}
 
  *,
  *:before,
@@ -125,7 +125,7 @@
     margin-right: 16px;
 }
      header .mobile-header .hamburger-icon {
-         display: block;
+         display: none;
          width: 30px;
          height: 30px;
         }
@@ -281,7 +281,7 @@ article .article-heading {
      margin-bottom: 16px;
  }
 
- .contact-form input[type="submit"]:hover { 
+ .contact-form input[type="submit"] { 
     background-color: var(--action);
      border: 0;
      margin-top: 16px;
@@ -290,6 +290,14 @@ article .article-heading {
      border-radius: 50px;
      font-weight: bold;
      cursor: pointer;
+     transition: all 0.3s ease;
+ }
+
+ .contact-form input[type="submit"]:hover {
+     box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.2);
+     transform: translateY(-4px);
+     border-radius: 50px;
+     background-color: var(--action);
      transition: all 0.3s ease;
  }
 
@@ -342,6 +350,6 @@ article .article-heading {
         margin-left: 20px;
         margin-right: 20px;     
     }
- 
+
 
 }
