@@ -54,8 +54,17 @@ Desktop Examples
 ![Desktop Screenshot](/img/Desktop2-Project-Page.png)
 
 Tablet
-![Tablet Screenshot](/img/Desktop1%20Homepage.png)
+![Tablet Screenshot](/img/Tablet%1.png)
+![Tablet Screenshot](/img/Tablet%2.png)
+![Tablet Screenshot](/img/Tablet3-Project-Page.png)
 
-#### image_title_goes_here
+Mobile
+![Mobile Screenshot](/img/Mobile-Homepage.png)
+![Mobile Screenshot](/img/Mobile-Homepage2.png)
+![Mobile Screenshot](/img/Mobile-Project-Page.png)
+
+Hover States
+![Hover Screenshot](/img/Hover-State1%colour%change.png)
+![Hover Screenshot](/img/Hover-State2%button%shadow.png)
 
 ![Put a description of your image here](./relative_path_to_file)
